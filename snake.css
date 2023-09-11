@@ -1,0 +1,19 @@
+/*canvas{
+	border: 1px solid black;
+	height: 400px;
+	width: 400px;
+}
+div{
+	width: 500px;
+	height: 500px;
+}*/
+
+ body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        canvas {
+            border: 1px solid black;
+            margin: auto;
+            background-image: linear-gradient(lightblue,lightgrey);
+        }
